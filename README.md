@@ -9,4 +9,5 @@ On the GitHub repository, only codes related to design and connections are avail
   4. Update the 'connection.php' file to align with the localhost configuration.
 
  The website was already globalized using the hosting of "000webhost" as the hosting platform, with domain "alconnect"
- The website is live at url # https://alconnect.000webhostapp.com
+ The website is live at url 
+ # https://alconnect.000webhostapp.com

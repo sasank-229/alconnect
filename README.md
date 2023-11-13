@@ -5,7 +5,7 @@ The ALCONNECT functions as a web-based database platform, facilitating the conne
 On the GitHub repository, only codes related to design and connections are available due to the absence of database functionality. To implement the website with a database, users can connect it to a localhost and follow these steps:
   1. Create a database named "alumni_register."
   2. Establish three tables within the database: "alumni_record," "student_record," and "alumni_domains."
-  3. Refer to the "Screenshots_referal_database" folder for the structural details of each table.
+  3. Refer to the "Database_referral_screenshots" folder for the structural details of each table.
   4. Update the 'connection.php' file to align with the localhost configuration.
 
  The website was already globalized using the hosting of "000webhost" as the hosting platform, with domain "alconnect"
